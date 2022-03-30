@@ -1,9 +1,10 @@
 # Hi, I am Sanket! Great to see you here! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px">
-<img src="https://github.com/Sanket2004/sanketbanerjee.github.io/blob/main/demo.png?raw=true" width="full-width">
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Sanket+Banerjee;I+am+a+First+Year+College+student;Front-end+Web+Developer;Web-App+Developer;+%3C3"></a>
+</p>
 
 
 
-If You Really Like My Work Give A Thumbs-up <img src="https://media3.giphy.com/media/ehz3LfVj7NvpY8jYUY/giphy.gif" width="25px" >
 <!--
 **Sanket2004/Sanket2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
