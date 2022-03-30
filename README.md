@@ -2,7 +2,9 @@
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="30%" >
   </p>
 <p align="center">
+  <code>
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Sanket+Banerjee;I+am+a+First+Year+College+student;Front-end+Web+Developer;Web-App+Developer;+%3C3"></a>
+  </code>
 </p>
 <p align="center">
   <code>
@@ -42,6 +44,20 @@
 <a href="https://instagram.com/thefierybird.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thefierybird.07" height="30" width="40" /></a>
 <a href="https://dribbble.com/sanketbanerje15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sanketbanerje15" height="30" width="40" /></a>
   </p>
+  <br>
+  <br>
+  <p align="center">
+    <code>
+    You Can Visit My Portfolio
+  </code>
+    <br>
+    <img src="https://i.gifer.com/XOsX.mp4">
+  </p>
+  <p align="center">
+  <code>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Thanks+For+Coming+my+Github+page;If+You+Like+My+Work+Please+Give+A+🌟;Feel+Free+To+Contact+Me;+%3C3"></a>
+  </code>
+</p>
 
 <!--
 **Sanket2004/Sanket2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
