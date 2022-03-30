@@ -9,6 +9,9 @@
   I'm Sanket Banerjee, an adept learner exploring the depths of technology. I am a 1st year undergrad at AEC, Asansol, majoring in Information Technology (<strong>IT</strong>). I have a great passion for <strong>Web-Development </strong> along with <strong>C & C++ Programming</strong>.
   </code>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanket2004-src" alt="Sanket Banerjee" />
+</p>
 
 
 <!--
