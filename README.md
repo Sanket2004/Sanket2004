@@ -2,6 +2,7 @@
 If You Really Like My Work Give A Thumbs-up <img src="https://media3.giphy.com/media/ehz3LfVj7NvpY8jYUY/giphy.gif" width="25px" >
 <!--
 **Sanket2004/Sanket2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media3.giphy.com/media/ehz3LfVj7NvpY8jYUY/giphy.gif" width="25px" >
 
 Here are some ideas to get you started:
 
