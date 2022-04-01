@@ -49,9 +49,9 @@
   <p align="center">
     <img src="https://github.com/Sanket2004/Sanket2004/blob/main/XOsX.gif?raw=true" width="100px">
 <p align="center">
-  <code>
+ 
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Thanks+For+Coming+my+Github+page;If+You+Like+My+Work+Please+Give+A+🌟;Feel+Free+To+Contact+Me;+%3C3"></a>
-  </code>
+
 </p>
 
 <!--
